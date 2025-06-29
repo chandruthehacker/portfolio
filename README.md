@@ -71,10 +71,53 @@ I’m Chandraprakash C, a passionate cybersecurity learner currently pursuing my
 ## 🛡️ Cybersecurity Journey
 
 ```plaintext
-📘 11th Grade — Sparked interest in cybersecurity
-🎯 College — Started building foundational skills
-💡 Projects — Created real-world simulations (honeypots, phishing detection, etc.)
+📘 11th Standard — Sparked interest in cybersecurity
+🎯 College — Started building foundational skills (Networking, Cybersecurity Basics)
+💡 Projects — Created real-world simulations (honeypots, AI phishing detector, etc.)
 🧪 Practice — Solving TryHackMe & HTB rooms
 📚 Learning — Splunk, ELK Stack, SOC workflow
 🚀 Goal — Become a Tier 1/2 SOC Analyst after graduation
 ```
+---
+
+## 🚀 Projects
+
+| Project                     | Description                          | Link                                                                |
+| --------------------------- | ------------------------------------ | ------------------------------------------------------------------- |
+| 🐍 Log Analysis Tool        | Python-based log parser and analyzer | [View](https://github.com/chandruthehacker/log-analysis-tool)       |
+| 🛡️ Phishing Email Detector | Email header analysis with basic ML  | [View](https://github.com/chandruthehacker/phishing-email-detector) |
+| 🐝 Honeypot Project         | Basic honeypot trap and alert system | [View](https://github.com/chandruthehacker/honeypot-project)        |
+| 📊 Splunk Dashboard         | Windows Event Log Dashboard          | [Coming Soon](#)                                                    |
+
+---
+
+## 📜 Certificates
+| Certificate                   | Platform      | Link      |
+| ----------------------------- | ------------- | --------- |
+| Splunk Fundamentals 1         | Splunk        | [View](#) |
+| Introduction to Cybersecurity | Cisco NetAcad | [View](#) |
+| Cybersecurity Essentials      | Cisco NetAcad | [View](#) |
+| Linux Basics                  | TryHackMe     | [View](#) |
+| More coming soon...           |               |           |
+
+---
+
+## 🎓 Education
+### 🎓 B.Sc. Computer Science
+- GTN Arts College, Dindigul <i>2023 - 2026 (Expected)</i>
+
+---
+
+## 📬 Contact
+| Platform     | Link                                                          |
+| ------------ | ------------------------------------------------------------- |
+| 📧 Email     | [chandrupersonal@gmail.com](mailto:chandrupersonal@gmail.com) |
+| 📱 WhatsApp  | [+91-XXXXXXXXXX](https://wa.me/91XXXXXXXXXX)                  |
+| 💬 Telegram  | [@chandruthehacker](https://t.me/chandruthehacker)            |
+| 📸 Instagram | [@chandruthehacker](https://instagram.com/chandruthehacker)   |
+| 🐦 Twitter/X | [@chandruthehacker](https://twitter.com/chandruthehacker)     |
+
+---
+
+<p align="center"> <img src="https://raw.githubusercontent.com/chandruthehacker/your-repo/main/assets/banner.gif" width="100%" alt="Cybersecurity Banner"/> </p> <p align="center"> <i>“Stay curious, stay secure.”</i> 🔐 </p> ```
+  
