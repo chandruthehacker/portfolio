@@ -32,13 +32,13 @@
 <table>
   <tr>
     <td><a href="https://github.com/chandruthehacker" target="_blank">
-      <img src="large/light/github.svg" width="40" height="40"/>
+      <img src="icons/github.svg" width="40" height="40"/>
     </a></td>
     <td><a href="https://linkedin.com/in/chandruthehacker" target="_blank">
-      <img src="large/filled/linkedin.svg" width="40" height="40"/>
+      <img src="icons/linkedin.svg" width="40" height="40"/>
     </a></td>
     <td><a href="https://medium.com/@chandruthehacker" target="_blank">
-      <img src="large/colored/medium-new.svg" width="60" height="60"/>
+      <img src="icons/medium.svg" width="60" height="60"/>
     </a></td>
   </tr>
 </table>
