@@ -134,6 +134,17 @@ I’m Chandraprakash C, a passionate cybersecurity learner currently pursuing my
     <img src="certificates/Udemy_Splunk.jpg" alt="Splunk Core Udemy" width="200" height="140">
   </a>
   </td>
+  <td>
+  <a href="https://trainings.internshala.com/certificate/view/nsdc/1gvfiyruzvc/fj2c4mq927_/" target="_blank">
+    <img src="certificates/internshala_nsdc.webp" alt="Internshala NSDC Certificate" width="200" height="140">
+  </a>
+  </td>
+
+  <td>
+  <a href="https://www.udemy.com/certificate/UC-d1611f48-8dbb-4c43-9bde-9c0bfd0cf47c/" target="_blank">
+    <img src="certificates/Udemy_Splunk.jpg" alt="Splunk Core Udemy" width="200" height="140">
+  </a>
+  </td>
 </table>
 </p>
 
