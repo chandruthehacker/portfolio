@@ -33,37 +33,25 @@
   <a href="https://linkedin.com/in/chandruthehacker" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/>
   </a>
-
-  <a href="mailto:chandrupersonal@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Gmail" width="32" height="32"/>
-  </a>
-
-  <a href="https://tryhackme.com/p/chandruthehacker" target="_blank">
-    <img src="https://raw.githubusercontent.com/mohamedabusrea/devicon/devicon/icons/tryhackme/tryhackme-original.svg" alt="TryHackMe" width="32" height="32"/>
-  </a>
-
-  <a href="https://app.hackthebox.com/profile/chandruthehacker" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Hack_The_Box_logo.png" alt="Hack The Box" width="32" height="32"/>
-  </a>
-
+  
   <a href="https://medium.com/@chandruthehacker" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" width="32" height="32"/>
   </a>
 
-  <a href="https://wa.me/91XXXXXXXXXX" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" width="32" height="32" style="filter: none;"/>
+  <a href="https://wa.me/919786475035" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" width="32" height="32" style="filter: none; color: #25D366;"/>
   </a>
 
-  <a href="https://t.me/chandruthehacker" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="32" height="32"/>
+  <a href="https://t.me/cyberchandru" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="32" height="32" style="color: blue;"/>
   </a>
 
   <a href="https://instagram.com/chandruthehacker" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/intagram.svg" alt="Instagram" width="32" height="32" style="color: rose;"/>
   </a>
 
   <a href="https://twitter.com/chandruthehacker" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="32" height="32" style="color: white;"/>
   </a>
 
 </div>
