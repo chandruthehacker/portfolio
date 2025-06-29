@@ -39,7 +39,7 @@
   </a>
 
   <a href="https://medium.com/@chandruthehacker" target="_blank">
-    <img src="icons/medium.svg" alt="Medium" width="40" height="40">
+    <img src="icons/medium.svg" alt="Medium" width="50" height="50">
   </a>
 </p>
 
