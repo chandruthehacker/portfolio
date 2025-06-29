@@ -64,8 +64,6 @@ I’m Chandraprakash C, a passionate cybersecurity learner currently pursuing my
 - Incident Response
 - Network Security
 
-<br>
-
 ### 🛠️ Tools & Technologies
 - Wireshark, Zeek
 - Splunk (Fundamentals + Dashboarding)
@@ -73,13 +71,9 @@ I’m Chandraprakash C, a passionate cybersecurity learner currently pursuing my
 - Linux, Windows
 - VMware, VirtualBox, WSL
 
-<br>
-
 ### 👨‍💻 Programming & Scripting
 - Bash Scripting
 - Python (for automation, parsing logs)
-
-<br>
 
 ### 🌐 Other
 - Networking Fundamentals
