@@ -47,7 +47,7 @@
   </a>
 
   <a href="https://instagram.com/chandruthehacker" target="_blank">
-    ![image](https://github.com/user-attachments/assets/deed8928-418e-4236-92d0-7a3309c017f3)
+     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="32" height="32" style="color: blue;"/>
   </a>
   
 
@@ -56,6 +56,27 @@
   </a>
 
 </div>
+
+![large-filled-discord](large/filled/discord.svg)
+![large-filled-dribbble](large/filled/dribbble.svg)
+![large-filled-facebook](large/filled/facebook.svg)
+![large-filled-github](large/filled/github.svg)
+![large-filled-gitlab](large/filled/gitlab.svg)
+![large-filled-instagram](large/filled/instagram.svg)
+![large-filled-linkedin](large/filled/linkedin.svg)
+![large-filled-large](large/filled/medium.svg)
+![large-filled-messenger](large/filled/messenger.svg)
+![large-filled-pinterest](large/filled/pinterest.svg)
+![large-filled-quora](large/filled/quora.svg)
+![large-filled-reddit](large/filled/reddit.svg)
+![large-filled-skype](large/filled/skype.svg)
+![large-filled-spotify](large/filled/spotify.svg)
+![large-filled-telegram](large/filled/telegram.svg)
+![large-filled-tiktok](large/filled/tiktok.svg)
+![large-filled-twitch](large/filled/twitch.svg)
+![large-filled-twitter](large/filled/twitter.svg)
+![large-filled-twitter-x](large/filled/twitter-x.svg)
+![large-filled-youtube](large/filled/youtube.svg)
 
 <br>
 <br>
