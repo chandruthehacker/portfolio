@@ -29,7 +29,7 @@
 <br>
 
 ## 💼 My Proffessional Platforms
-<p align="left">
+<p align="left" style="align-items: center; text-align: center;">
   <a href="https://github.com/chandruthehacker" target="_blank">
     <img src="icons/github.svg" alt="GitHub" width="40" height="40">
   </a>
@@ -39,7 +39,7 @@
   </a>
 
   <a href="https://medium.com/@chandruthehacker" target="_blank">
-    <img src="icons/medium.svg" alt="Medium" width="60" height="60">
+    <img src="icons/medium.svg" alt="Medium" width="40" height="40">
   </a>
 </p>
 
