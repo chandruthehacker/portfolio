@@ -29,22 +29,19 @@
 <br>
 
 ## 💼 My Proffessional Platforms
-
-<p align="left">
-  <a href="https://github.com/chandruthehacker" target="_blank">
-    <img src="large/filled/github-bg.svg" width="40" height="40" alt="GitHub">
-  </a>&nbsp;&nbsp;
-
-  <a href="https://linkedin.com/in/chandruthehacker" target="_blank">
-    <img src="large/filled/linkedin-bg.svg" width="40" height="40" alt="LinkedIn">
-  </a>&nbsp;&nbsp;
-
-  <a href="https://medium.com/@chandruthehacker" target="_blank">
-    <img src="large/filled/medium-bg.svg" width="40" height="40" alt="Medium">
-  </a>
-</p>
-
-
+<table>
+  <tr>
+    <td><a href="https://github.com/chandruthehacker" target="_blank">
+      <img src="large/light/github.svg" width="40" height="40"/>
+    </a></td>
+    <td><a href="https://linkedin.com/in/chandruthehacker" target="_blank">
+      <img src="large/filled/linkedin.svg" width="40" height="40"/>
+    </a></td>
+    <td><a href="https://medium.com/@chandruthehacker" target="_blank">
+      <img src="large/filled/medium.svg" width="40" height="40"/>
+    </a></td>
+  </tr>
+</table>
 
 
 
