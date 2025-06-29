@@ -30,7 +30,6 @@
 
 ## 💼 My Proffessional Platforms
 <div align="left" style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
-
   <a href="https://linkedin.com/in/chandruthehacker" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/>
   </a>
@@ -68,12 +67,6 @@
   </a>
 
 </div>
-
-
-| Platform | Link |
-|---------|------|
-| 💼 LinkedIn | [linkedin.com/in/chandruthehacker](https://linkedin.com/in/chandruthehacker) |
-| ✍️ Medium Blog | [medium.com/@chandruthehacker](https://medium.com/@chandruthehacker) |
 
 <br>
 <br>
