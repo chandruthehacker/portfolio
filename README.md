@@ -47,8 +47,9 @@
   </a>
 
   <a href="https://instagram.com/chandruthehacker" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="32" height="32"/>
+    ![image](https://github.com/user-attachments/assets/deed8928-418e-4236-92d0-7a3309c017f3)
   </a>
+  
 
   <a href="https://twitter.com/chandruthehacker" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="32" height="32" style="color: white;"/>
