@@ -57,14 +57,36 @@
 
 </div>
 
+<div align="center" style="display: flex; gap: 12px; align-items: center;">
+
+  <a href="https://github.com/chandruthehacker" target="_blank">
+    <img src="large/filled/github.svg" alt="GitHub" width="40" height="40">
+  </a>
+
+  <a href="https://linkedin.com/in/chandruthehacker" target="_blank">
+    <img src="large/filled/linkedin.svg" alt="LinkedIn" width="40" height="40">
+  </a>
+
+  <a href="https://medium.com/@chandruthehacker" target="_blank">
+    <img src="large/filled/medium.svg" alt="Medium" width="40" height="40">
+  </a>
+
+</div>
+
+
+![large-filled-github](large/filled/github.svg)
+![large-filled-linkedin](large/filled/linkedin.svg)
+![large-filled-large](large/filled/medium.svg)
+
+
 ![large-filled-discord](large/filled/discord.svg)
 ![large-filled-dribbble](large/filled/dribbble.svg)
 ![large-filled-facebook](large/filled/facebook.svg)
-![large-filled-github](large/filled/github.svg)
+
 ![large-filled-gitlab](large/filled/gitlab.svg)
 ![large-filled-instagram](large/filled/instagram.svg)
-![large-filled-linkedin](large/filled/linkedin.svg)
-![large-filled-large](large/filled/medium.svg)
+
+
 ![large-filled-messenger](large/filled/messenger.svg)
 ![large-filled-pinterest](large/filled/pinterest.svg)
 ![large-filled-quora](large/filled/quora.svg)
