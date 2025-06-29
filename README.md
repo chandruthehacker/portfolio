@@ -48,31 +48,7 @@
 
 
 
-![large-filled-github](large/filled/github.svg)
-![large-filled-linkedin](large/filled/linkedin.svg)
-![large-filled-large](large/filled/medium.svg)
 
-
-![large-filled-discord](large/filled/discord.svg)
-![large-filled-dribbble](large/filled/dribbble.svg)
-![large-filled-facebook](large/filled/facebook.svg)
-
-![large-filled-gitlab](large/filled/gitlab.svg)
-![large-filled-instagram](large/filled/instagram.svg)
-
-
-![large-filled-messenger](large/filled/messenger.svg)
-![large-filled-pinterest](large/filled/pinterest.svg)
-![large-filled-quora](large/filled/quora.svg)
-![large-filled-reddit](large/filled/reddit.svg)
-![large-filled-skype](large/filled/skype.svg)
-![large-filled-spotify](large/filled/spotify.svg)
-![large-filled-telegram](large/filled/telegram.svg)
-![large-filled-tiktok](large/filled/tiktok.svg)
-![large-filled-twitch](large/filled/twitch.svg)
-![large-filled-twitter](large/filled/twitter.svg)
-![large-filled-twitter-x](large/filled/twitter-x.svg)
-![large-filled-youtube](large/filled/youtube.svg)
 
 <br>
 <br>
@@ -165,6 +141,13 @@ I’m Chandraprakash C, a passionate cybersecurity learner currently pursuing my
 <br><br><br>
 
 ## 📬 Contact
+![large-filled-discord](large/filled/discord.svg)
+![large-filled-facebook](large/filled/facebook.svg)
+![large-filled-instagram](large/filled/instagram.svg)
+![large-filled-messenger](large/filled/messenger.svg)
+![large-filled-telegram](large/filled/telegram.svg)
+![large-filled-twitter-x](large/filled/twitter-x.svg)
+![large-filled-twitter](large/filled/twitter.svg)
 | Platform     | Link                                                           |
 | ------------ | -------------------------------------------------------------  |
 | 📧 Email     | [chandrupersonal@gmail.com](mailto:cyberchandru87@gmail.com)  |
