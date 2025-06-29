@@ -30,21 +30,22 @@
 
 ## 💼 My Proffessional Platforms
 
-<p align="left" style="text-decoration: none;">
+<table>
+  <tr>
+    <td><a href="https://github.com/chandruthehacker" target="_blank">
+      <img src="large/filled/github.svg" width="40" height="40"/>
+    </a></td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+    <td><a href="https://linkedin.com/in/chandruthehacker" target="_blank">
+      <img src="large/filled/linkedin.svg" width="40" height="40"/>
+    </a></td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+    <td><a href="https://medium.com/@chandruthehacker" target="_blank">
+      <img src="large/filled/medium.svg" width="40" height="40"/>
+    </a></td>
+  </tr>
+</table>
 
-  <a href="https://github.com/chandruthehacker" target="_blank" style="text-decoration: none;">
-    <img src="large/filled/github.svg" alt="GitHub" width="40" height="50">
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://linkedin.com/in/chandruthehacker" target="_blank" style="text-decoration: none;">
-    <img src="large/filled/linkedin.svg" alt="LinkedIn" width="40" height="40">
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://medium.com/@chandruthehacker" target="_blank" style="text-decoration: none;">
-    <img src="large/filled/medium.svg" alt="Medium" width="40" height="40">
-  </a>
-
-</p>
 
 
 
