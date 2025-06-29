@@ -34,11 +34,11 @@
 
   <a href="https://github.com/chandruthehacker" target="_blank">
     <img src="large/filled/github.svg" alt="GitHub" width="40" height="40">
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
 
   <a href="https://linkedin.com/in/chandruthehacker" target="_blank">
     <img src="large/filled/linkedin.svg" alt="LinkedIn" width="40" height="40">
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
 
   <a href="https://medium.com/@chandruthehacker" target="_blank">
     <img src="large/filled/medium.svg" alt="Medium" width="40" height="40">
