@@ -4,7 +4,7 @@
   <i>"Breaking barriers to secure the digital world."</i>
 </p>
 
----
+
 
 ## 📌 Table of Contents
 - [🌐 My Portfolio Website](#-my-portfolio-website)
@@ -17,12 +17,12 @@
 - [🎓 Education](#-education)
 - [📬 Contact](#-contact)
 
----
+
 
 ## 🌐 My Portfolio Website
 🔗 [Visit My Portfolio](https://your-portfolio-link.com)
 
----
+
 
 ## 💼 My Work Platforms
 
@@ -34,12 +34,12 @@
 | 📃 Naukri | [naukri.com/u/chandruthehacker](https://naukri.com/u/chandruthehacker) |
 | ✍️ Medium Blog | [medium.com/@chandruthehacker](https://medium.com/@chandruthehacker) |
 
----
+
 
 ## 👨‍💻 About Me
 I’m Chandraprakash C, a passionate cybersecurity learner currently pursuing my **BSc in Computer Science** at **GTN Arts College, Dindigul**. I'm highly motivated to become a **Security Analyst or SOC Analyst** and have been exploring cybersecurity since 11th grade.
 
----
+
 
 ## 🧠 My Skills
 
@@ -66,7 +66,7 @@ I’m Chandraprakash C, a passionate cybersecurity learner currently pursuing my
 - Bug Hunting Basics
 - Operating System Concepts
 
----
+
 
 ## 🛡️ Cybersecurity Journey
 
@@ -78,7 +78,7 @@ I’m Chandraprakash C, a passionate cybersecurity learner currently pursuing my
 📚 Learning — Splunk, ELK Stack, SOC workflow
 🚀 Goal — Become a Tier 1/2 SOC Analyst after graduation
 ```
----
+
 
 ## 🚀 Projects
 
@@ -89,7 +89,7 @@ I’m Chandraprakash C, a passionate cybersecurity learner currently pursuing my
 | 🐝 Honeypot Project         | Basic honeypot trap and alert system | [View](https://github.com/chandruthehacker/honeypot-project)        |
 | 📊 Splunk Dashboard         | Windows Event Log Dashboard          | [Coming Soon](#)                                                    |
 
----
+
 
 ## 📜 Certificates
 | Certificate                   | Platform      | Link      |
@@ -100,13 +100,13 @@ I’m Chandraprakash C, a passionate cybersecurity learner currently pursuing my
 | Linux Basics                  | TryHackMe     | [View](#) |
 | More coming soon...           |               |           |
 
----
+
 
 ## 🎓 Education
 ### 🎓 B.Sc. Computer Science
 - GTN Arts College, Dindigul <i>2023 - 2026 (Expected)</i>
 
----
+
 
 ## 📬 Contact
 | Platform     | Link                                                          |
