@@ -113,6 +113,20 @@ I’m Chandraprakash C, a passionate cybersecurity learner currently pursuing my
 <br><br><br>
 
 ## 📜 Certificates
+
+<p align="center">
+
+  <a href="https://example.com/google-certificate" target="_blank">
+    <img src="certificates/google_cybersecurity.webp" alt="Google Cybersecurity Certificate" width="100" style="margin-right: 20px;">
+  </a>
+
+  <a href="https://example.com/nsdc-internshala" target="_blank">
+    <img src="certificates/internshala_nsdc.webp" alt="Internshala NSDC Certificate" width="100">
+  </a>
+
+</p>
+
+
 | Certificate                   | Platform      | Link      |
 | ----------------------------- | ------------- | --------- |
 | Cybersecurity Proffessional   | Google        | [View](https://www.coursera.org/account/accomplishments/professional-cert/TGJE3FRTFS2N) |
