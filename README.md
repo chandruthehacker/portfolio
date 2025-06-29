@@ -29,19 +29,14 @@
 <br>
 
 ## 💼 My Proffessional Platforms
-<p align="left">
+<div gap="12px">
   <a href="https://linkedin.com/in/chandruthehacker" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
-  &nbsp;
-  <a href="mailto:chandrupersonal@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="30" height="30"/>
-  </a>
-  &nbsp;
   <a href="https://tryhackme.com/p/chandruthehacker" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="TryHackMe" width="30" height="30"/>
   </a>
-</p>
+</div>
 
 | Platform | Link |
 |---------|------|
