@@ -47,7 +47,7 @@
   </a>
 
   <a href="https://instagram.com/chandruthehacker" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/intagram.svg" alt="Instagram" width="32" height="32" style="color: rose;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="32" height="32"/>
   </a>
 
   <a href="https://twitter.com/chandruthehacker" target="_blank">
