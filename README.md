@@ -1,25 +1,8 @@
 <h1 align="center">🚀 Chandraprakash C | Cybersecurity Portfolio</h1>
 <p align="center">
-  <b>Security Enthusiast | Aspiring SOC Analyst | BSc CS Student</b><br/>
-  <i>"Breaking barriers to secure the digital world."</i>
+  <b>Security Analyst | SOC Enthusiast | BSc CS Student</b><br/>
+  <i>"Securing digital systems through continuous learning and practical application."</i>
 </p>
-
-<br>
-<br>
-
-## 📌 Table of Contents
-- [🌐 My Portfolio Website](#-my-portfolio-website)
-- [💼 My Work Platforms](#-my-work-platforms)
-- [👨‍💻 About Me](#-about-me)
-- [🧠 My Skills](#-my-skills)
-- [🛡️ Cybersecurity Journey](#️-cybersecurity-journey)
-- [🚀 Projects](#-projects)
-- [📜 Certificates](#-certificates)
-- [🎓 Education](#-education)
-- [📬 Contact](#-contact)
-
-<br>
-<br>
 
 
 ## 🌐 My Portfolio Website
@@ -49,39 +32,31 @@
 <br>
 
 
-## 👨‍💻 About Me
-I’m Chandraprakash C, a passionate cybersecurity learner currently pursuing my **BSc in Computer Science** at **GTN Arts College, Dindigul**. I'm highly motivated to become a **Security Analyst or SOC Analyst** and have been exploring cybersecurity since 11th grade.
+## 📌 Professional Overview
+Cybersecurity student with hands-on experience in security monitoring, log analysis, and threat detection. Currently developing SOC-relevant skills including Splunk, SIEM technologies, and incident response procedures. Passionate about blue team operations with a strong foundation in networking and system security.
 
 <br>
 <br>
 <br>
 
-## 🧠 My Skills
+## 🛠️ Technical Skills
 
-### 🔍 Blue Team
-- Log Analysis
-- Threat Detection
-- SIEM Tools (Learning Splunk)
-- Incident Response
-- Network Security
+### 🔍 Security Domains
+- **Security Monitoring**: SIEM (Splunk), Log Analysis, Threat Detection
+- **Incident Response**: Basic Forensics, Alert Triage
+- **Network Security**: Wireshark, Zeek, Suricata, IDS/IPS concepts
+- **System Hardening**: Linux/Windows security basics
 
-### 🛠️ Tools & Technologies
-- Wireshark, Zeek
-- Splunk (Fundamentals + Dashboarding)
-- Suricata, ELK Stack
-- Linux, Windows
-- VMware, VirtualBox, WSL
+### 💻 Tools & Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white" alt="Splunk">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/ELK-005571?logo=elastic&logoColor=white" alt="ELK Stack">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
+</p>
 
-### 👨‍💻 Programming & Scripting
-- Bash Scripting
-- Python (for automation, parsing logs)
-
-### 🌐 Other
-- Networking Fundamentals
-- Bug Hunting Basics
-- Operating System Concepts
-
-<br>
 <br>
 <br>
 
@@ -101,17 +76,26 @@ I’m Chandraprakash C, a passionate cybersecurity learner currently pursuing my
 <br>
 <br>
 
-## 🚀 Projects
+## 🚀 Key Projects
 
-| Project                     | Description                          | Link                                                                |
-| --------------------------- | ------------------------------------ | ------------------------------------------------------------------- |
-| 🐍 Log Analysis Tool        | Python-based log parser and analyzer | [View](https://github.com/chandruthehacker/log-parser)       |
-| 🛡️ Phishing Email Detector | Email header analysis with basic ML  | [View](https://github.com/chandruthehacker/phishing-email-detector) |
-| 🐝 Honeypot Project         | Basic honeypot trap and alert system | [View](https://github.com/chandruthehacker/honeypot)        |
-| 📊 Splunk Dashboard         | Windows Event Log Dashboard          | [Coming Soon](#)                                                    |
+### 🐍 [Log Analysis Tool](https://github.com/chandruthehacker/log-parser)
+- Python script to parse and analyze security logs
+- Features pattern detection and basic anomaly alerts
+- Outputs summarized reports for quick triage
 
+### 🛡️ [Phishing Email Detector](https://github.com/chandruthehacker/phishing-email-detector)
+- Analyzes email headers for suspicious patterns
+- Implements basic machine learning classification
+- Scores emails based on phishing indicators
 
-<br><br><br>
+### 🐝 [Honeypot System](https://github.com/chandruthehacker/honeypot)
+- Low-interaction honeypot capturing attack patterns
+- Integrated with alerting system
+- Logs attacker techniques for analysis
+
+---
+
+<br><br>
 
 ## 📜 Certificates
 
@@ -130,13 +114,15 @@ I’m Chandraprakash C, a passionate cybersecurity learner currently pursuing my
 </p>
 
 
-<br><br><br>
+<br><br>
 
-## 🎓 Education
-### 🎓 B.Sc. Computer Science
-- GTN Arts College, Dindigul   <i>2023 - 2026 (Expected)</i>
+## 📚 Education
+**B.Sc Computer Science**  
+GTN Arts College, Dindigul • 2023-2026 (Expected)  
+- Relevant coursework: Network Security, Operating Systems, Data Structures
 
-<br><br><br>
+
+<br><br>
 
 ## 📬 Contact
 ![large-filled-discord](large/filled/discord.svg)
@@ -146,13 +132,6 @@ I’m Chandraprakash C, a passionate cybersecurity learner currently pursuing my
 ![large-filled-telegram](large/filled/telegram.svg)
 ![large-filled-twitter-x](large/filled/twitter-x.svg)
 ![large-filled-twitter](large/filled/twitter.svg)
-| Platform     | Link                                                           |
-| ------------ | -------------------------------------------------------------  |
-| 📧 Email     | [chandrupersonal@gmail.com](mailto:cyberchandru87@gmail.com)  |
-| 📱 WhatsApp  | [+91-XXXXXXXXXX](https://wa.me/91XXXXXXXXXX)                  |
-| 💬 Telegram  | [@chandruthehacker](https://t.me/chandruthehacker)            |
-| 📸 Instagram | [@chandruthehacker](https://instagram.com/dgl_chandru)        |
-| 🐦 Twitter/X | [@chandruthehacker](https://twitter.com/chandruthehacker)     |
 
 ---
 
