@@ -4,18 +4,28 @@
   <i>"Securing digital systems through continuous learning and practical application."</i>
 </p>
 
+<br>
+<br>
 
 ## 🌐 My Portfolio Website
 🔗 [Visit My Portfolio](https://chandruthehacker.github.io)
 
 <br>
 
-<p align="center">
-  <a href="https://chandruthehacker.github.io" target="_blank">Portfolio</a> •
-  <a href="https://linkedin.com/in/chandruthehacker" target="_blank">LinkedIn</a> •
-  <a href="https://medium.com/@chandruthehacker" target="_blank">Blogs</a> •
-  <a href="mailto:chandrupersonal@gmail.com">Contact</a>
+<p align="center" style="align-items: center; text-align: center;">
+  <a href="https://github.com/chandruthehacker" target="_blank">
+    <img src="icons/github.svg" alt="GitHub" width="40" height="40">
+  </a>
+
+  <a href="https://linkedin.com/in/chandruthehacker" target="_blank">
+    <img src="icons/linkedin.svg" alt="LinkedIn" width="40" height="40">
+  </a>
+
+  <a href="https://medium.com/@chandruthehacker" target="_blank">
+    <img src="icons/medium.svg" alt="Medium" width="40" height="40">
+  </a>
 </p>
+
 
 
 <br>
