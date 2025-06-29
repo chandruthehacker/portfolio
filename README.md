@@ -136,5 +136,5 @@ I’m Chandraprakash C, a passionate cybersecurity learner currently pursuing my
 
 ---
 
-<p align="center"> <img src="https://raw.githubusercontent.com/chandruthehacker/your-repo/main/assets/banner.gif" width="100%" alt="Cybersecurity Banner"/> </p> <p align="center"> <i>“Stay curious, stay secure.”</i> 🔐 </p> ```
+<p align="center"> <img src="https://raw.githubusercontent.com/chandruthehacker/your-repo/main/assets/banner.gif" width="100%" alt="Cybersecurity Banner"/> </p> <p align="center"> <i>“Stay curious, stay secure.”</i> 🔐 </p>
   
