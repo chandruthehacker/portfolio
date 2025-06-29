@@ -38,7 +38,7 @@
       <img src="large/filled/linkedin.svg" width="40" height="40"/>
     </a></td>
     <td><a href="https://medium.com/@chandruthehacker" target="_blank">
-      <img src="large/filled/medium-bg.svg" width="40" height="40"/>
+      <img src="large/colored/medium-new.svg" width="40" height="40"/>
     </a></td>
   </tr>
 </table>
