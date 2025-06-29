@@ -40,7 +40,7 @@
     <img src="large/filled/linkedin.svg" alt="LinkedIn" width="40" height="40">
   </a>
 
-  <a href="https://medium.com/@chandruthehacker" target="_blank" style="background-color: white;">
+  <a href="https://medium.com/@chandruthehacker" target="_blank" style="background-color: white; margin-left: 15px;">
     <img src="large/filled/medium.svg" alt="Medium" width="40" height="40">
   </a>
 
