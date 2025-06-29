@@ -35,7 +35,7 @@
   </a>
 
   <a href="mailto:chandrupersonal@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Gmail" width="32" height="32"/>
   </a>
 
   <a href="https://tryhackme.com/p/chandruthehacker" target="_blank">
