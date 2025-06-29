@@ -9,7 +9,7 @@
 🔗 [Visit My Portfolio](https://chandruthehacker.github.io)
 
 <br>
-<br>
+
 
 ## 💼 My Proffessional Platforms
 <p align="left" style="align-items: center; text-align: center;">
@@ -29,13 +29,11 @@
 
 
 <br>
-<br>
 
 
 ## 📌 Professional Overview
 Cybersecurity student with hands-on experience in security monitoring, log analysis, and threat detection. Currently developing SOC-relevant skills including Splunk, SIEM technologies, and incident response procedures. Passionate about blue team operations with a strong foundation in networking and system security.
 
-<br>
 <br>
 <br>
 
@@ -74,7 +72,7 @@ Cybersecurity student with hands-on experience in security monitoring, log analy
 
 <br>
 <br>
-<br>
+
 
 ## 🚀 Key Projects
 
