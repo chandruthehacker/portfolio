@@ -114,29 +114,28 @@ I’m Chandraprakash C, a passionate cybersecurity learner currently pursuing my
 
 ## 📜 Certificates
 
+<p align="center">
 <table>
   <tr>
     <td>
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/TGJE3FRTFS2N" target="_blank">
-    <img src="certificates/google_cybersecurity.webp" alt="Google Cybersecurity Certificate" width="200" height="120">
+    <img src="certificates/google_cybersecurity.webp" alt="Google Cybersecurity Certificate" width="200" height="140">
   </a>
   </td>
 
 <td>
   <a href="https://trainings.internshala.com/certificate/view/nsdc/1gvfiyruzvc/fj2c4mq927_/" target="_blank">
-    <img src="certificates/internshala_nsdc.webp" alt="Internshala NSDC Certificate" width="200" height="120">
+    <img src="certificates/internshala_nsdc.webp" alt="Internshala NSDC Certificate" width="200" height="140">
   </a>
   </td>
 
+  <td>
+  <a href="https://www.udemy.com/certificate/UC-d1611f48-8dbb-4c43-9bde-9c0bfd0cf47c/" target="_blank">
+    <img src="certificates/Udemy_Splunk.jpg" alt="Splunk Core Udemy" width="200" height="140">
+  </a>
+  </td>
 </table>
-
-
-| Certificate                   | Platform      | Link      |
-| ----------------------------- | ------------- | --------- |
-| Cybersecurity Proffessional   | Google        | [View](https://www.coursera.org/account/accomplishments/professional-cert/TGJE3FRTFS2N) |
-| Ethical Hacking               | Internshala   | [View](https://trainings.internshala.com/certificate/view/nsdc/1gvfiyruzvc/fj2c4mq927_/) |
-| Splunk Core                   | Udemy         | [View](https://www.udemy.com/certificate/UC-d1611f48-8dbb-4c43-9bde-9c0bfd0cf47c/) |
-| More coming soon...           |               |           |
+</p>
 
 <br><br><br>
 
