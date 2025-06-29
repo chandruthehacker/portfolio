@@ -114,17 +114,21 @@ I’m Chandraprakash C, a passionate cybersecurity learner currently pursuing my
 
 ## 📜 Certificates
 
-<p align="center">
-
-  <a href="https://example.com/google-certificate" target="_blank">
-    <img src="certificates/google_cybersecurity.webp" alt="Google Cybersecurity Certificate" width="100" style="margin-right: 20px;">
+<table>
+  <tr>
+    <td>
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/TGJE3FRTFS2N" target="_blank">
+    <img src="certificates/google_cybersecurity.webp" alt="Google Cybersecurity Certificate" width="200" height="120">
   </a>
+  </td>
 
-  <a href="https://example.com/nsdc-internshala" target="_blank">
-    <img src="certificates/internshala_nsdc.webp" alt="Internshala NSDC Certificate" width="100">
+<td>
+  <a href="https://trainings.internshala.com/certificate/view/nsdc/1gvfiyruzvc/fj2c4mq927_/" target="_blank">
+    <img src="certificates/internshala_nsdc.webp" alt="Internshala NSDC Certificate" width="200" height="120">
   </a>
+  </td>
 
-</p>
+</table>
 
 
 | Certificate                   | Platform      | Link      |
